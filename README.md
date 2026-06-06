@@ -8,3 +8,8 @@ https://github.com/2108282/sing-box-subscribe
 
 首选模块momo
 https://github.com/nikkinikki-org/OpenWrt-momo
+
+构建docker
+生成文件格式如下：
+https://docker后端地址/config/机场订阅地址&file=json规则地址
+/n添加多地址
